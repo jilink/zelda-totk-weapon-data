@@ -4,6 +4,8 @@ Welcome to the Zelda Weapons and Materials Data repository! This repository cont
 
 ## Purpose and Usage
 
+All credits goes to [This spreadsheet made by a redditor](https://docs.google.com/spreadsheets/d/18pNtDx3z-8CwGJRmlW574xbQ6VphQOkvpZhClpOEVDA/edit#gid=114269320) from where I got the initial data
+
 The data in these CSV files is directly related to the website [The Legend Of Zelda Tears Of The Kingdom Weapons Fuses](https://zelda-totk-weapons-fuses.netlify.app/). The purpose of the website is to provide a convenient way to test various combinations (referred to as "fuses") of weapons in the game.
 
 ![Alt Text](https://github.com/jilink/zelda-totk-weapon-data/blob/main/totk-fuse-demo.gif)
